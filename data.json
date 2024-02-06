@@ -1,0 +1,16 @@
+[
+    {
+        
+        "Name": "NIKE SHOES",
+        "Description":"SIZE: 43, COLOR: WHITE",
+        "Price":1500.00,
+        "Date Added":"February 6,2024"
+    },
+    {
+        "id": 2,
+        "name": "ADIDAS SHOES ",
+        "price": 1250.00,
+        "description": "SIZE: 29, COLOR: BLACK.",
+        "category": "SPORTS"
+      }
+]
